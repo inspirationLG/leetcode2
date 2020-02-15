@@ -8,4 +8,3 @@ package leetcode1313;
 public class Solution {
 
 }
-1
